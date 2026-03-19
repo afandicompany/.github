@@ -1,29 +1,31 @@
-<!-- AFANDI e.U. · README -->
+<!-- AFANDI e.U. · README · DE / EN -->
 
 <div align="center">
 
 # AFANDI e.U.
-**Moodle / LMS · IT-Dienstleistungen · Umsetzung, Support & Enablement**
+**Moodle / LMS · IT Services · Delivery, Support & Enablement**
 
 <p>
   <img src="https://img.shields.io/badge/Moodle-LMS_%26_Standards-FF9A00?logo=moodle&logoColor=white" alt="Moodle / LMS" />
-  <img src="https://img.shields.io/badge/Integrationen-SSO_%C2%B7_Sync_%C2%B7_Reporting-0a7ea4" alt="Integrationen" />
-  <img src="https://img.shields.io/badge/Arbeitsweise-Dokumentiert_%C2%B7_%C3%9Cbergabef%C3%A4hig-062b61" alt="Arbeitsweise" />
+  <img src="https://img.shields.io/badge/Integrations-SSO_%C2%B7_Sync_%C2%B7_Reporting-0a7ea4" alt="Integrations" />
+  <img src="https://img.shields.io/badge/Way_of_Working-Documented_%C2%B7_Handover_Ready-062b61" alt="Way of Working" />
 </p>
 
 <p>
-  Zuverlässige Moodle-/LMS-Umsetzungen und IT-Basis für Bildungseinrichtungen und KMU –<br>
-  mit klaren Standards, sauberer Dokumentation und übergabefähigen Ergebnissen.
+  Reliable Moodle/LMS implementations and practical IT foundations for educational institutions and SMEs –<br>
+  with clear standards, clean documentation, and handover-ready results.
 </p>
 
 <p>
-  <a href="mailto:kontakt@afandi.org"><strong>Projektanfrage senden</strong></a> ·
-  <a href="https://afandi.org">Webseite</a>
+  <a href="mailto:kontakt@afandi.org"><strong>Send project inquiry</strong></a> ·
+  <a href="https://afandi.org">Website</a>
 </p>
 
 </div>
 
 ---
+
+# Deutsch
 
 ## Profil
 
@@ -34,7 +36,7 @@ Der Fokus liegt auf:
 - **klaren Standards** statt Insellösungen
 - **nachvollziehbaren Prozessen** statt Ad-hoc-Änderungen
 - **stabilen Systemen** statt kurzfristigen Quick Fixes
-- **übergebefähiger Dokumentation**, mit der Teams nachhaltig weiterarbeiten können
+- **übergabefähiger Dokumentation**, mit der Teams nachhaltig weiterarbeiten können
 
 ---
 
@@ -43,17 +45,17 @@ Der Fokus liegt auf:
 ### Moodle / LMS
 - Entwicklung von **Kurs- und Kategorienstrukturen**
 - Erstellung von **Rollen- und Rechtekonzepten**
-- **Templates, Konventionen und Theme-/UI-Anpassungen** im Corporate Design (konsistent & wartbar)
+- **Templates, Konventionen und Theme-/UI-Anpassungen** im Corporate Design (konsistent und wartbar)
 - Einsatz von **H5P/SCORM**, Aktivitätsabschluss (Completion) und Qualitätssicherung
 - **Plugin-Management** und **Update-Strategie** (Test → Abnahme → Produktion)
-- **Performance-/Monitoring-Basics**
+- **Performance- und Monitoring-Basics**
 - **Backup-/Restore-Prüfungen** und Betriebsdokumentation
 
 ### Integration & Automatisierung
 - **SSO-Integration** (z. B. SAML / OAuth2)
 - **Nutzer-Synchronisation** und Einschreibelogiken
 - **Datenflüsse, Exporte und Reporting** (CSV)
-- Schnittstellenanbindungen (wo sinnvoll und wartbar)
+- Schnittstellenanbindungen, wo sinnvoll und wartbar
 - Automatisierte **Wartungs- und Prüfroutinen (Tasks)**
 - Standardisierung wiederkehrender Abläufe
 
@@ -68,7 +70,7 @@ Der Fokus liegt auf:
 
 ---
 
-## Startpakete (ohne Preisangaben)
+## Startpakete
 
 ### Moodle Quick-Start (kundenseitig gehostet)
 **Ziel:** Sauberer Start mit klarer Struktur und arbeitsfähigen Standards.  
@@ -186,5 +188,169 @@ KPI-/Berichtslogik, Exporte und saubere Datenbasis für verlässliche Auswertung
 
 ---
 
+# English
+
+## Profile
+
+AFANDI e.U. supports educational institutions and SMEs in building and operating **reliable learning platforms (Moodle/LMS)** as well as a **stable, practical IT foundation for day-to-day work**.
+
+The focus is on:
+
+- **clear standards** instead of isolated solutions
+- **traceable processes** instead of ad hoc changes
+- **stable systems** instead of short-term quick fixes
+- **handover-ready documentation** that enables teams to continue working sustainably
+
+---
+
+## Services
+
+### Moodle / LMS
+- Design of **course and category structures**
+- Development of **roles and permissions concepts**
+- **Templates, conventions, and theme/UI customizations** aligned with corporate design (consistent and maintainable)
+- Use of **H5P/SCORM**, completion tracking, and quality assurance
+- **Plugin management** and **update strategy** (test → approval → production)
+- **Performance and monitoring basics**
+- **Backup/restore checks** and operational documentation
+
+### Integration & Automation
+- **SSO integration** (e.g. SAML / OAuth2)
+- **User synchronization** and enrollment logic
+- **Data flows, exports, and reporting** (CSV)
+- Interface integrations where useful and maintainable
+- Automated **maintenance and verification routines (tasks)**
+- Standardization of recurring processes
+
+### IT Foundation for Teams (SMEs)
+- **Workplace setup** (accounts, MFA, policies)
+- Standard software and update fundamentals
+- Structuring of **Microsoft 365 / Google Workspace**
+- Permissions and operational hygiene
+- **Network and Wi-Fi analysis**, segmentation (including guest Wi-Fi)
+- **Backup concept including restore testing**
+- **Security baseline** (MFA, encryption, endpoint baseline protection)
+
+---
+
+## Starter Packages
+
+### Moodle Quick Start (customer-hosted)
+**Goal:** A clean start with clear structure and workable standards.  
+**Included:** Structure, roles, templates, compact admin/trainer onboarding.
+
+### Relaunch & Stabilization
+**Goal:** Clean up, standardize, and operate an existing platform reliably.  
+**Included:** Cleanup, standards, navigation, QA, operational documentation.
+
+### Integration Pack
+**Goal:** Consistent user processes and reduced manual effort.  
+**Included:** SSO, user synchronization, enrollment logic, reporting setup.
+
+### Operations Baseline
+**Goal:** Maintainable operations with clear routines and documented procedures.  
+**Included:** Update path, monitoring basics, backup/restore checks, runbook.
+
+### IT Start for Teams
+**Goal:** A solid IT foundation for everyday team operations.  
+**Included:** Devices, accounts, MFA, policies, file storage structure, short training.
+
+### Network & Wi-Fi
+**Goal:** Stable operation and a clear, understandable local network structure.  
+**Included:** Stabilization, guest Wi-Fi, documentation, recommended actions.
+
+---
+
+## Training & Enablement
+
+### Moodle Trainer Training
+Course design, activities, grading, completion, and best practices for productive use.
+
+### Moodle Admin Basics
+Roles, user management, plugins, updates, backups, and documentation for secure operations.
+
+### Content Standards
+Responsive structure, reusable templates, and QA checklists for consistent content quality.
+
+### Reporting Fundamentals
+KPI/reporting logic, exports, and a clean data basis for reliable evaluations.
+
+---
+
+## Delivery Approach
+
+1. **Kickoff & Target State**  
+   Clarify requirements, roles, timeline, and risks.
+
+2. **Current-State Assessment**  
+   Review structure, data, integrations, and quality criteria.
+
+3. **Implementation in Test Environment**  
+   Apply standards, perform QA, and prepare approval.
+
+4. **Go-Live Support**  
+   Coordination, cutover planning, and monitoring checks.
+
+5. **Handover & Enablement**  
+   Documentation, training, and operational recommendations.
+
+---
+
+## Support & Operations
+
+- **Ticket-based support** with prioritization (P1–P3)
+- Every action is **documented**:
+  - What was done?
+  - Why was it done?
+  - What is the result?
+  - What is the next sensible step?
+- **Handover-ready documentation**:
+  - Runbook
+  - Checklists
+  - Admin manual
+- Remote support is by default **supervised**  
+  (one-time code, transparent and traceable steps)
+
+---
+
+## Standards & Quality
+
+> **Working principle:** Maintainability before quick fixes.  
+> The goal is an operational setup that teams can understand, verify, and continue to manage independently.
+
+- Separation of **test and production environments** for changes where possible
+- **Change logs** and **approval checklists**
+- **Backup/restore** as a mandatory checkpoint (not just “backup exists”)
+- Clear conventions and minimal special-case handling
+- Transparent service boundaries and clean handovers
+
+---
+
+## Suitable For
+
+### Educational Institutions
+- Course standards and templates
+- Rollouts and relaunches
+- Training for instructors and administrators
+- Stabilization of existing Moodle environments
+
+### Companies / SMEs
+- Onboarding and training platforms with Moodle
+- Integrations (SSO, user processes, reporting)
+- Operational support and IT foundations for teams
+
+---
+
+## Scope & Boundaries
+
+- **Production hosting is not provided on AFANDI’s own infrastructure.**  
+  AFANDI e.U. supports implementation and go-live on customer-owned systems.
+
+- **Legal/data protection assessments** are carried out by the responsible parties when required  
+  (e.g. data protection officers / legal counsel). Technical implementation is supported accordingly.
+
+---
+
 <footer><div align="center">
-  <sub>AFANDI e.U. · Moodle / LMS · Integrationen · IT-Basis · Dokumentiert & übergabefähig</sub></div></footer>
+  <sub>AFANDI e.U. · Moodle / LMS · Integrations · IT Foundations · Documented & Handover Ready</sub>
+</div></footer>
